@@ -1,0 +1,2 @@
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+Here a short snippet of Python code to open that file and print out its contents to screen note that this Python code has to be run in the same directory that the example.txt file exists in.
